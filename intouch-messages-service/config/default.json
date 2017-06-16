@@ -1,0 +1,10 @@
+{
+  "host": "localhost",
+  "port": 3002,
+  "public": "../public/",
+  "paginate": {
+    "default": 10,
+    "max": 50
+  },
+  "mongodb": "ENTER_DATABASE_URL_HERE"
+}

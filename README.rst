@@ -68,9 +68,9 @@ Available Endpoints
 
 I recommend using Postman for making requests to the test server. You can
 download Postman from https://www.getpostman.com/. it's available 
-for Windows, Mac and Linux. Once installed download [this]() 
-API call pack and import it into Postman. From there you can use the 
-included CURL requests, or add your own (if you need help with this, please ask me).
+for Windows, Mac and Linux. Once installed import the `InTouch-API-calls.postman_collection.json`
+API call pack into Postman. From there you can use the included CURL requests,
+or add your own (if you need help with this, please ask me).
 
 This is just a proof of concept. More endpoints will obviously be added
 as the project comes together.

@@ -31,7 +31,22 @@ inconvenience.
 Usage
 -----
 
-To start server run
+**Node must be installed and in your PATH for this to work**
+
+First run the install script to install each service's node dependancies
+
+.. code-block:: bat
+
+    C:\> install.bat
+
+or for linux
+
+.. code-block:: bash
+
+    $ ./install
+
+
+Then to start the server run
 
 .. code-block:: bat
 
@@ -45,6 +60,8 @@ or for linux
 
 Then in your browser navigate to `http://localhost:3030`
 
+
+**Please let me know of any errors along the way so I can fix them. Thanks**
 
 Available Endpoints
 -------------------
